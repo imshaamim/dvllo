@@ -2614,7 +2614,7 @@ figure {
 .all-project-grid {
   grid-column-gap: 0px;
   grid-template-rows: auto;
-  grid-template-columns: .25fr .75fr .5fr .5fr;
+  grid-template-columns: .75fr .5fr .5fr;
 }
 
 .hero-text-block {
@@ -2658,6 +2658,7 @@ figure {
 
 .year {
   border-bottom: 1px solid #3b3b3b80;
+  display: none;
 }
 
 .all-project {
